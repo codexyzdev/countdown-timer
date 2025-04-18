@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-grayish-blue: hsl(237, 18%, 59%);
+  --color-soft-red: hsl(345, 95%, 68%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-dark-desaturated-blue: hsl(236, 21%, 26%);
+  --color-very-dark-blue: hsl(235, 16%, 14%);
+  --color-very-dark-mostly-black-blue: hsl(234, 17%, 12%);
+}
